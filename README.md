@@ -77,6 +77,3 @@ pytest tests/
 - Improve NLP query parsing accuracy
 - Add support for advanced SQL queries (e.g., joins, aggregations)
 
-## License
-This project is licensed under the MIT License.
-
